@@ -1481,6 +1481,7 @@ private: System::Windows::Forms::PictureBox^  pictureBox53;
 			this->pictureBox45->SizeMode = System::Windows::Forms::PictureBoxSizeMode::Zoom;
 			this->pictureBox45->TabIndex = 46;
 			this->pictureBox45->TabStop = false;
+			this->pictureBox45->Click += gcnew System::EventHandler(this, &MyForm::pictureBox45_Click_1);
 			// 
 			// pictureBox46
 			// 
@@ -5880,7 +5881,7 @@ private: System::Void pictureBox46_Click(System::Object^  sender, System::EventA
 			 pictureBox50->Image = Image::FromFile("начало1.jpg");
 			 pictureBox51->Show();
 
-			 //pictureBox1->Show();
+			 pictureBox1->Show();
 			 pictureBox2->Show();
 			 pictureBox3->Show();
 			 pictureBox4->Show();
@@ -6358,6 +6359,8 @@ private: System::Void pictureBox48_Click(System::Object^  sender, System::EventA
 			 pictureBox50->Image = Image::FromFile("правила1.jpg");
 			 pictureBox53->Location = System::Drawing::Point(732, 380);
 			 pictureBox53->Show();
+}
+private: System::Void pictureBox45_Click_1(System::Object^  sender, System::EventArgs^  e) {
 }
 };
 }
