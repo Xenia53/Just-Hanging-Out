@@ -5926,7 +5926,7 @@ private: System::Void pictureBox46_Click(System::Object^  sender, System::EventA
 			 Win = 0;
 
 			 Random^rand = gcnew Random();
-			 int r = rand->Next(50);
+			 int r = rand->Next(51);
 			 Word = "";
 
 			 if (r == 0)
@@ -6035,8 +6035,8 @@ private: System::Void pictureBox46_Click(System::Object^  sender, System::EventA
 				 Word = "альтруизм";
 			 if (r == 49)
 				 Word = "раскройка";
-			 /*if (r == 50)
-				 Word = "поселок";*/
+			 if (r == 50)
+				 Word = "поселок";
 
 			
 
