@@ -1,47 +1,47 @@
-﻿Build started 09.12.2017 19:01:58.
-     1>Project "D:\oop\RGZ_oop\RGZ_oop\RGZ_oop.vcxproj" on node 2 (Build target(s)).
+﻿Build started 09.12.2017 20:53:42.
+     1>Project "D:\RGZ_oop\RGZ_oop\RGZ_oop.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm.cpp
          MyForm.cpp
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(1680): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(1808): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(1935): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(2062): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(2189): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(2316): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(2443): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(2570): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(2697): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(2824): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(2951): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(3078): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(3205): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(3332): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(3459): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(3586): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(3713): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(3840): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(3967): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(4094): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(4221): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(4348): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(4475): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(4602): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(4729): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(4856): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(4983): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(5110): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(5237): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(5364): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(5491): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(5620): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\oop\rgz_oop\rgz_oop\MyForm.h(5747): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(1681): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(1809): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(1936): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(2063): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(2190): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(2317): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(2444): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(2571): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(2698): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(2825): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(2952): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(3079): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(3206): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(3333): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(3460): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(3587): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(3714): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(3841): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(3968): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(4095): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(4222): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(4349): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(4476): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(4603): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(4730): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(4857): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(4984): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(5111): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(5238): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(5365): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(5492): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(5621): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rgz_oop\rgz_oop\MyForm.h(5748): warning C4018: '<' : signed/unsigned mismatch
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\oop\RGZ_oop\Debug\RGZ_oop.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\RGZ_oop.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\oop\RGZ_oop\Debug\RGZ_oop.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\MyForm.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\RGZ_oop\Debug\RGZ_oop.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\RGZ_oop.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\RGZ_oop\Debug\RGZ_oop.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\MyForm.obj
          "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
-         RGZ_oop.vcxproj -> D:\oop\RGZ_oop\Debug\RGZ_oop.exe
-     1>Done Building Project "D:\oop\RGZ_oop\RGZ_oop\RGZ_oop.vcxproj" (Build target(s)).
+         RGZ_oop.vcxproj -> D:\RGZ_oop\Debug\RGZ_oop.exe
+     1>Done Building Project "D:\RGZ_oop\RGZ_oop\RGZ_oop.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:02.55
+Time Elapsed 00:00:03.56

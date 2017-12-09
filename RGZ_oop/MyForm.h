@@ -1719,7 +1719,7 @@ private: System::Void pictureBox1_Click(System::Object^  sender, System::EventAr
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -1847,7 +1847,7 @@ private: System::Void pictureBox2_Click(System::Object^  sender, System::EventAr
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -1974,7 +1974,7 @@ private: System::Void pictureBox3_Click(System::Object^  sender, System::EventAr
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -2101,7 +2101,7 @@ private: System::Void pictureBox4_Click(System::Object^  sender, System::EventAr
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -2228,7 +2228,7 @@ private: System::Void pictureBox5_Click(System::Object^  sender, System::EventAr
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -2355,7 +2355,7 @@ private: System::Void pictureBox6_Click(System::Object^  sender, System::EventAr
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -2482,7 +2482,7 @@ private: System::Void pictureBox7_Click(System::Object^  sender, System::EventAr
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -2609,7 +2609,7 @@ private: System::Void pictureBox8_Click(System::Object^  sender, System::EventAr
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -2736,7 +2736,7 @@ private: System::Void pictureBox9_Click(System::Object^  sender, System::EventAr
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -2863,7 +2863,7 @@ private: System::Void pictureBox10_Click(System::Object^  sender, System::EventA
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -2990,7 +2990,7 @@ private: System::Void pictureBox11_Click(System::Object^  sender, System::EventA
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -3117,7 +3117,7 @@ private: System::Void pictureBox12_Click(System::Object^  sender, System::EventA
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -3244,7 +3244,7 @@ private: System::Void pictureBox13_Click(System::Object^  sender, System::EventA
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -3371,7 +3371,7 @@ private: System::Void pictureBox14_Click(System::Object^  sender, System::EventA
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -3498,7 +3498,7 @@ private: System::Void pictureBox15_Click(System::Object^  sender, System::EventA
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -3625,7 +3625,7 @@ private: System::Void pictureBox16_Click(System::Object^  sender, System::EventA
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -3752,7 +3752,7 @@ private: System::Void pictureBox17_Click(System::Object^  sender, System::EventA
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -3879,7 +3879,7 @@ private: System::Void pictureBox18_Click(System::Object^  sender, System::EventA
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -4006,7 +4006,7 @@ private: System::Void pictureBox19_Click(System::Object^  sender, System::EventA
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -4133,7 +4133,7 @@ private: System::Void pictureBox20_Click(System::Object^  sender, System::EventA
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -4260,7 +4260,7 @@ private: System::Void pictureBox21_Click(System::Object^  sender, System::EventA
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -4387,7 +4387,7 @@ private: System::Void pictureBox22_Click(System::Object^  sender, System::EventA
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -4514,7 +4514,7 @@ private: System::Void pictureBox23_Click(System::Object^  sender, System::EventA
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -4641,7 +4641,7 @@ private: System::Void pictureBox24_Click(System::Object^  sender, System::EventA
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -4768,7 +4768,7 @@ private: System::Void pictureBox25_Click(System::Object^  sender, System::EventA
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -4895,7 +4895,7 @@ private: System::Void pictureBox26_Click(System::Object^  sender, System::EventA
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -5022,7 +5022,7 @@ private: System::Void pictureBox27_Click(System::Object^  sender, System::EventA
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -5149,7 +5149,7 @@ private: System::Void pictureBox28_Click(System::Object^  sender, System::EventA
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -5276,7 +5276,7 @@ private: System::Void pictureBox29_Click(System::Object^  sender, System::EventA
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -5403,7 +5403,7 @@ private: System::Void pictureBox30_Click(System::Object^  sender, System::EventA
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -5530,7 +5530,7 @@ private: System::Void pictureBox31_Click(System::Object^  sender, System::EventA
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -5659,7 +5659,7 @@ private: System::Void pictureBox32_Click(System::Object^  sender, System::EventA
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
@@ -5786,7 +5786,7 @@ private: System::Void pictureBox33_Click(System::Object^  sender, System::EventA
 				 if (Lose == 3)
 					 pictureBox45->Image = Image::FromFile("perek.png");
 				 if (Lose == 4)
-					 pictureBox45->Image = Image::FromFile("perek1.png");
+					 pictureBox45->Image = Image::FromFile("petla.png");
 				 if (Lose == 5)
 				 {
 					 pictureBox45->Image = Image::FromFile("end.png");
