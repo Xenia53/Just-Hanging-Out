@@ -1767,7 +1767,7 @@ private: System::Void pictureBox1_Click(System::Object^  sender, System::EventAr
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
 
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
@@ -1894,7 +1894,7 @@ private: System::Void pictureBox2_Click(System::Object^  sender, System::EventAr
 			 if (Win == Quantity)
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
@@ -2021,7 +2021,7 @@ private: System::Void pictureBox3_Click(System::Object^  sender, System::EventAr
 			 if (Win == Quantity)
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
@@ -2148,7 +2148,7 @@ private: System::Void pictureBox4_Click(System::Object^  sender, System::EventAr
 			 if (Win == Quantity)
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
@@ -2275,7 +2275,7 @@ private: System::Void pictureBox5_Click(System::Object^  sender, System::EventAr
 			 if (Win == Quantity)
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
@@ -2402,7 +2402,7 @@ private: System::Void pictureBox6_Click(System::Object^  sender, System::EventAr
 			 if (Win == Quantity)
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
@@ -2529,7 +2529,7 @@ private: System::Void pictureBox7_Click(System::Object^  sender, System::EventAr
 			 if (Win == Quantity)
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
@@ -2656,7 +2656,7 @@ private: System::Void pictureBox8_Click(System::Object^  sender, System::EventAr
 			 if (Win == Quantity)
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
@@ -2783,7 +2783,7 @@ private: System::Void pictureBox9_Click(System::Object^  sender, System::EventAr
 			 if (Win == Quantity)
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
@@ -2910,7 +2910,7 @@ private: System::Void pictureBox10_Click(System::Object^  sender, System::EventA
 			 if (Win == Quantity)
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
@@ -3037,7 +3037,7 @@ private: System::Void pictureBox11_Click(System::Object^  sender, System::EventA
 			 if (Win == Quantity)
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
@@ -3164,7 +3164,7 @@ private: System::Void pictureBox12_Click(System::Object^  sender, System::EventA
 			 if (Win == Quantity)
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
@@ -3291,7 +3291,7 @@ private: System::Void pictureBox13_Click(System::Object^  sender, System::EventA
 			 if (Win == Quantity)
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
@@ -3418,7 +3418,7 @@ private: System::Void pictureBox14_Click(System::Object^  sender, System::EventA
 			 if (Win == Quantity)
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
@@ -3545,7 +3545,7 @@ private: System::Void pictureBox15_Click(System::Object^  sender, System::EventA
 			 if (Win == Quantity)
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
@@ -3672,7 +3672,7 @@ private: System::Void pictureBox16_Click(System::Object^  sender, System::EventA
 			 if (Win == Quantity)
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
@@ -3799,7 +3799,7 @@ private: System::Void pictureBox17_Click(System::Object^  sender, System::EventA
 			 if (Win == Quantity)
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
@@ -3926,7 +3926,7 @@ private: System::Void pictureBox18_Click(System::Object^  sender, System::EventA
 			 if (Win == Quantity)
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
@@ -4053,7 +4053,7 @@ private: System::Void pictureBox19_Click(System::Object^  sender, System::EventA
 			 if (Win == Quantity)
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
@@ -4180,7 +4180,7 @@ private: System::Void pictureBox20_Click(System::Object^  sender, System::EventA
 			 if (Win == Quantity)
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
@@ -4307,7 +4307,7 @@ private: System::Void pictureBox21_Click(System::Object^  sender, System::EventA
 			 if (Win == Quantity)
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
@@ -4434,7 +4434,7 @@ private: System::Void pictureBox22_Click(System::Object^  sender, System::EventA
 			 if (Win == Quantity)
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
@@ -4561,7 +4561,7 @@ private: System::Void pictureBox23_Click(System::Object^  sender, System::EventA
 			 if (Win == Quantity)
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
@@ -4688,7 +4688,7 @@ private: System::Void pictureBox24_Click(System::Object^  sender, System::EventA
 			 if (Win == Quantity)
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
@@ -4815,7 +4815,7 @@ private: System::Void pictureBox25_Click(System::Object^  sender, System::EventA
 			 if (Win == Quantity)
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
@@ -4942,7 +4942,7 @@ private: System::Void pictureBox26_Click(System::Object^  sender, System::EventA
 			 if (Win == Quantity)
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
@@ -5069,7 +5069,7 @@ private: System::Void pictureBox27_Click(System::Object^  sender, System::EventA
 			 if (Win == Quantity)
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
@@ -5196,7 +5196,7 @@ private: System::Void pictureBox28_Click(System::Object^  sender, System::EventA
 			 if (Win == Quantity)
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
@@ -5322,7 +5322,7 @@ private: System::Void pictureBox29_Click(System::Object^  sender, System::EventA
 
 			 if (Win == Quantity)
 			 {
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
@@ -5450,7 +5450,7 @@ private: System::Void pictureBox30_Click(System::Object^  sender, System::EventA
 			 if (Win == Quantity)
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
@@ -5579,7 +5579,7 @@ private: System::Void pictureBox31_Click(System::Object^  sender, System::EventA
 			 if (Win == Quantity)
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
@@ -5706,7 +5706,7 @@ private: System::Void pictureBox32_Click(System::Object^  sender, System::EventA
 			 if (Win == Quantity)
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
@@ -5833,7 +5833,7 @@ private: System::Void pictureBox33_Click(System::Object^  sender, System::EventA
 			 if (Win == Quantity)
 			 {
 				 pictureBox46->Location = System::Drawing::Point(456, 284); pictureBox47->Location = System::Drawing::Point(550, 357); pictureBox53->Location = System::Drawing::Point(641, 284); pictureBox46->Image = Image::FromFile("да.jpg"); pictureBox52->Image = Image::FromFile("победа.jpg"); pictureBox46->Show(); pictureBox53->Show(); pictureBox47->Show(); pictureBox52->Show();
-				 pictureBox45->Image = Image::FromFile("endgame.png");
+				 pictureBox45->Image = Image::FromFile("win.png");
 				 pictureBox1->Hide();
 				 pictureBox2->Hide();
 				 pictureBox3->Hide();
